@@ -6,7 +6,7 @@ const CallToAction = () => {
 
   return (      
     <div className="flex flex-col items-center justify-items-center">
-      <p className={'text-3xl font-light text-white leading-4'}>
+      <p className={'text-3xl uppercase font-light text-white leading-4'}>
         React with TailwindCss and Storybook!
       </p>
       <a
